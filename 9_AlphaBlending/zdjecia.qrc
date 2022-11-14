@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ksiazki.jpg</file>
+        <file>leosia.jpg</file>
+        <file>spiderman.jpg</file>
+        <file>toystory.jpg</file>
+        <file>spongebob.jpg</file>
+        <file>zima.jpg</file>
+        <file>black.jpg</file>
+    </qresource>
+</RCC>
